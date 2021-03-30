@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-I'm not a developer. Just a human.
-18 years old.
+A product minded developer.
+
+Web development with React.
+
+Had full stack experience.
