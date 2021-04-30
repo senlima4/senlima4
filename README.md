@@ -6,17 +6,20 @@ Currently develop with React & Nodejs.
 
 #### Last Month
 
-- Learned Relay GraphQL(should review in May)
-- Learned psql
-- Learned postgraphile
-- Review a little bit of Django
-- Refactor blog with Docusaurus 2
+- Review Redux(with saga, observable)
+- Review Rxjs
+- Try to read Nextjs source code 
+- Try to test with web socket in front end
+- Become 19 years old
 
 #### This month
 
-- Review Redux(with saga, observable)
-- Review Rxjs
-- Learn Vue 3
-- Try to read Nextjs source code 
-- Try to make a podcast on my blog with AWS S3
-- Try to test with web socket in front end
+- Learn React Native
+- Learn Solidjs
+- Learn Rust
+- Update `senlima4/landing`
+- Update `senlima4/task`
+- Read Nextjs source code
+- Read solidjs source code
+- Review GraphQL Relay && Read [Cursor Connection Specification](https://relay.dev/assets/files/connections-61fc54c286f0afc0b4f230f7c4b150bf.htm)
+- Try to make a podcast
